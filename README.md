@@ -1,6 +1,4 @@
-# psilocybin_repo3-acute-vs-postacute-trajectories
-
-Acute vs Post-Acute Trajectories in the Psilocybin Dataset
+# Acute vs Post-Acute Trajectories in the Psilocybin Dataset
 
 A neuroimaging analysis project examining how functional connectivity effects associated with psilocybin differ across acute and post-acute time windows.
 
